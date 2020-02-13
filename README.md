@@ -1,1 +1,1 @@
-# Jekkyl
+# Jekkyl theme
